@@ -1,0 +1,27 @@
+.navbar {
+  height: 50px;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navCountiner {
+  width: 100%;
+  height: 100%;
+  max-width: 1024px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  align-items: center;
+}
+.logo {
+  font-weight: 500;
+}
+.navButton {
+  margin-left: 20px;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: blue;
+}
